@@ -21,12 +21,12 @@ Origine : [Chaussette](https://hackropole.fr/fr/challenges/reverse/fcsc2023-reve
 > http://localhost
 
 #### tentez 
-> nc chaussette.cyrhades.fr:4000
+> nc chaussette.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 
 -----------
